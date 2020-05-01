@@ -33,7 +33,7 @@ p {
 	background: #fff;
 	border-bottom: 1px solid #999;
 	justify-content: space-between;
-	/*make the header stay in one place*/
+	/*Make the header stay in one place*/
 	position: fixed;
 	right: 0px;
 	left: 0px;
