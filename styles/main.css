@@ -79,14 +79,12 @@ p {
 
 .content {
 	display: flex;
-	margin: 20px 40px;
 	justify-content: center;
-	margin-top:120px;
+	margin-bottom: 20px ;
+	margin-top: 88px;
 }
 
 .contentholder {
 	background: #fff;
-	justify-content: end;
-	text-align: center;
-	width: 75%;
+	justify-content: center;
 }
